@@ -10,8 +10,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/GuilhermeCostaLima)](https://github.com/GuilhermeCostaLima)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/guilhermedacostadelima)]( www.linkedin.com/in/guilhermedacostadelima)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=in/guilhermedacostadelima)](in/guilhermedacostadelima)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/guilhermedacostadelima)](www.linkedin.com/in/guilhermedacostadelima)
 
 <div style="display: block">
    <b><font size="5">Tenho um conhecimento básico em:</font></b>
