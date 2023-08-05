@@ -1,5 +1,12 @@
 ### Olá 👋
- <style>
+ <!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <style>
     div{
         text-align: center;
         background-color: rgb(155, 155, 154);
@@ -13,7 +20,7 @@
 
 
   </style>
- 
+  <body>
 
 
     <div class="conhecimento">
@@ -51,6 +58,9 @@
         src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
       />
     </div>
+  </body>
+</html>
+
 <!--
 **GuilhermeCostaLima/GuilhermeCostaLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
