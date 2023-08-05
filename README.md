@@ -6,8 +6,6 @@
 
 :house_with_garden: Sou do Brasil.
 
-##
-
 # Sobre mim
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/GuilhermeCostaLima)](LINK_GIT)
