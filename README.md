@@ -14,7 +14,7 @@
 
 ##
 
-<img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<img height= "20" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
 <div style="display: block">
    <b><font size="5">Tenho um conhecimento básico em:</font></b>
