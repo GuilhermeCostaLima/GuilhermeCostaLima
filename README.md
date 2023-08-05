@@ -1,27 +1,4 @@
 ### Olá 👋
- <!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
-  </head>
-  <style>
-    div{
-        text-align: center;
-        background-color: rgb(155, 155, 154);
-        
-    }
-    .conhecimento{
-       
-        
-    }
-
-
-
-  </style>
-  <body>
-
 
     <div class="conhecimento">
       <b>Tenho um conhecimento básico em:</b>
@@ -58,8 +35,6 @@
         src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
       />
     </div>
-  </body>
-</html>
 
 <!--
 **GuilhermeCostaLima/GuilhermeCostaLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
