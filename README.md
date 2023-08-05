@@ -12,8 +12,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=in/guilhermedacostadelima)]( LINK_LINKEDIN)
 
-##
-
 <div style="display: block">
    <b><font size="5">Tenho um conhecimento básico em:</font></b>
    <br />
