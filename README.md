@@ -9,7 +9,7 @@
         <br />
         <br />
         <kbd align="center">
-            <b>Estou estudando:</b>
+            <b font-size="16">Estou estudando:</b>
             <br />
             <br />
             <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
