@@ -1,7 +1,8 @@
 ### Olá 👋
+
  <div style="display: block">
   <kbd align="center">
-    <b>Tenho um conhecimento básico em:</b>
+    <b><font size="5">Tenho um conhecimento básico em:</font></b>
         <br />
         <br />
         <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -9,7 +10,7 @@
         <br />
         <br />
         <kbd align="center">
-            <b font-size="16">Estou estudando:</b>
+            <b><font size="5">Estou estudando:</font></b>
             <br />
             <br />
             <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
@@ -18,9 +19,10 @@
          <br />
         </kbd>
         <br />
-   <br />
+        
         <kbd align="center">
-            <b>Quero estudar:</b>
+            <b><font size="5">Quero estudar:</font></b>
+            <br />
             <br />
             <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
          <br />
@@ -28,6 +30,7 @@
         </kbd>
     </kbd>
 </div>
+
 <!--
 **GuilhermeCostaLima/GuilhermeCostaLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
