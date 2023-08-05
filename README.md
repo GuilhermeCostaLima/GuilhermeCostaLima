@@ -19,7 +19,6 @@
          <br />
         </kbd>
         <br />
-        
         <kbd align="center">
             <b><font size="5">Quero estudar:</font></b>
             <br />
