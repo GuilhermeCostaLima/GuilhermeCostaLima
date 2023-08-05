@@ -1,6 +1,6 @@
 ### Olá 👋
  <div style="display: block">
-  
+  <kbd align="center">
     <b>Tenho um conhecimento básico em:</b>
         <br />
         <img
@@ -13,7 +13,7 @@
             src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
         />
         <br />
-        
+        <kbd align="center">
             <b>Estou estudando:</b>
             <br />
             <img
@@ -28,7 +28,7 @@
             />
         </kbd>
         <br />
-        
+        <kbd align="center">
             <b>Quero estudar:</b>
             <br />
             <img
@@ -36,9 +36,10 @@
                 alt="JavaScript"
                 src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
             />
-        
-    
+        </kbd>
+    </kbd>
 </div>
+
 
 <!--
 **GuilhermeCostaLima/GuilhermeCostaLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
