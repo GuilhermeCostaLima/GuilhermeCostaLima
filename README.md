@@ -1,7 +1,7 @@
 ### Olá 👋
  <div style="display: block">
   <kbd align="center">
-    <b>Tenho um conhecimento básico em:<b/>
+    <b>Tenho um conhecimento básico em:</b>
         <br />
         <img
             align="center"
