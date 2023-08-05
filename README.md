@@ -3,7 +3,7 @@
 ### Olá 👋
 
 ##
-   
+<div style="display: block">
    <b><font size="5">Tenho um conhecimento básico em:</font></b>
         <br />
         <br />
@@ -24,7 +24,7 @@
             <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
          <br />
          <br />
-
+</div>
 
 ##
 <!--
