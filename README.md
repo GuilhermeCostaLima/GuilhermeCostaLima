@@ -1,7 +1,7 @@
 ### Olá 👋
  <div style="display: block">
   
-    <kbd>Tenho um conhecimento básico em:</kbd>
+    <b>Tenho um conhecimento básico em:</b>
         <br />
         <img
             align="center"
@@ -13,8 +13,8 @@
             src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
         />
         <br />
-        <kbd align="center">
-            <kbd>Estou estudando:</kbd>
+        
+            <b>Estou estudando:</b>
             <br />
             <img
                 align="center"
@@ -28,7 +28,7 @@
             />
         </kbd>
         <br />
-        <kbd align="center">
+        
             <b>Quero estudar:</b>
             <br />
             <img
