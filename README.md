@@ -3,6 +3,7 @@
   <kbd align="center">
     <b>Tenho um conhecimento básico em:</b>
         <br />
+        <br />
         <img
             align="center"
             alt="HTML5"
@@ -13,8 +14,10 @@
             src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
         />
         <br />
+        <br />
         <kbd align="center">
             <b>Estou estudando:</b>
+            <br />
             <br />
             <img
                 align="center"
@@ -26,6 +29,8 @@
                 alt="MySQL"
                 src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"
             />
+         <br />
+         <br />
         </kbd>
         <br />
         <kbd align="center">
