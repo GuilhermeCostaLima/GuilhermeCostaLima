@@ -1,6 +1,6 @@
 ### Olá 👋
  <div style="display: block">
-  <kbd align="center">
+  
     <kbd>Tenho um conhecimento básico em:</kbd>
         <br />
         <img
@@ -36,8 +36,8 @@
                 alt="JavaScript"
                 src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
             />
-        </kbd>
-    </kbd>
+        
+    
 </div>
 
 <!--
