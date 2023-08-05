@@ -1,5 +1,5 @@
 ### Olá 👋
-
+##
  <div style="display: block">
   <kbd align="center">
     <b><font size="5">Tenho um conhecimento básico em:</font></b>
@@ -29,7 +29,7 @@
         </kbd>
     </kbd>
 </div>
-
+##
 <!--
 **GuilhermeCostaLima/GuilhermeCostaLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
