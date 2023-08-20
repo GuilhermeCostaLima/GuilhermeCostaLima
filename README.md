@@ -23,6 +23,7 @@
    <b><font size="5">Estudos futuros:</font></b>
    <br />
    <br />
+   <img align="center alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
    <br />
    <br />
