@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermedacostadelima)](https://www.linkedin.com/in/guilhermedacostadelima)
 
 <div style="display: block">
-   <b><font size="5">Tenho um conhecimento básico em:</font></b>
+   <b><font size="5">Tenho um conhecimento em:</font></b>
    <br />
    <br />
    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
