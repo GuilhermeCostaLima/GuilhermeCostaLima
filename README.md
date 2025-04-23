@@ -1,6 +1,7 @@
 # Seja Bem Vindo
 
 ## Sobre mim
+<h5>Inovador desenvolvedor com experiência em projetos de IoT na Universidade da Região de Joinville. Cursando Engenharia de Software, desenvolvi habilidades práticas em inovação tecnológica. Proativo na aplicação de soluções criativas, contribuindo para o aperfeiçoamento de processos por meio da tecnologia. Comprometido em agregar valor ao ambiente corporativo e impulsionar resultados significativos com minha expertise em desenvolvimento e inovação</h5>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermedacostadelima)](https://www.linkedin.com/in/guilhermedacostadelima)
 
